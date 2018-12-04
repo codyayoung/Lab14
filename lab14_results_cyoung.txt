@@ -1,0 +1,65 @@
+word:     i             count:  71
+word:     am            count:   3
+word:     sam           count:   6
+word:     that          count:   3
+word:     sam-i-am      count:  13
+word:     do            count:  36
+word:     not           count:  83
+word:     like          count:  44
+word:     you           count:  34
+word:     green         count:  10
+word:     eggs          count:  10
+word:     and           count:  24
+word:     ham           count:  10
+word:     them          count:  61
+word:     would         count:  26
+word:     here          count:  11
+word:     or            count:   8
+word:     there         count:   9
+word:     anywhere      count:   8
+word:     in            count:  41
+word:     a             count:  60
+word:     house         count:   8
+word:     with          count:  19
+word:     mouse         count:   8
+word:     eat           count:  24
+word:     box           count:   7
+word:     fox           count:   7
+word:     could         count:  14
+word:     car           count:   7
+word:     they          count:   2
+word:     are           count:   2
+word:     may           count:   4
+word:     will          count:  21
+word:     see           count:   4
+word:     tree          count:   7
+word:     d             count:   1
+word:     let           count:   4
+word:     me            count:   4
+word:     be            count:   4
+word:     mot           count:   1
+word:     train         count:   9
+word:     on            count:   7
+word:     say           count:   5
+word:     the           count:  11
+word:     dark          count:   7
+word:     rain          count:   4
+word:     goat          count:   4
+word:     boat          count:   3
+word:     so            count:   5
+word:     try           count:   4
+word:     if            count:   1
+word:     good          count:   2
+word:     thank         count:   2
+
+Unique words: 53
+Most frequent word: not
+Frequency: 83
+
+BREAKING NEWS
+-------------
+Knit and crochet for those in need of winter clothing
+Foothill College Theatre Arts Presents "She Kills Monsters"
+Campus food pantry receives donation
+Foothill and SF State spotlight diverse scientists with $1.1 million grant
+Undocumented Student Week of Action
